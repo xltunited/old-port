@@ -24,7 +24,7 @@
 .name {
 
   font-family: "Steampunk";
-  font-size: 50px;
+  font-size: 60px;
   line-height: 10px;
   color: white;
 
@@ -98,7 +98,7 @@
   -o-text-overflow: clip;
   text-overflow: clip;
   background: #b71c1c;
-  margin-left: 13%;
+  margin-left: 14.3%;
 }
 
 .nav-button:hover {
@@ -314,4 +314,26 @@
 
 .btn-github > span {
   background:#000000;
+}
+
+.profile-picture {
+
+  margin-top: 40%;
+  margin-left: 30%;
+  width: 80%;
+
+}
+
+.about-me {
+
+  color: #ffffff;
+  margin-top: 18%;
+  font-size: 1.1em;
+
+}
+
+.my-text {
+
+  margin-left: 12%;
+
 }
