@@ -1,0 +1,24 @@
+{
+  "name": "work-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xltunited/work-portfolio.git"
+  },
+  "author": "Eddy Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xltunited/work-portfolio/issues"
+  },
+  "homepage": "https://github.com/xltunited/work-portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
